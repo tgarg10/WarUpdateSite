@@ -7,11 +7,8 @@ Welcome to the Ukraine War Information Hub, a website dedicated to providing tra
 The Ukraine War Information Hub serves several vital purposes:
 
 1. Information Transparency: We aggregate and curate news from various sources, including Reddit discussions, news websites, and verified news outlets, to provide a comprehensive and balanced view of the situation on the ground.
-
 2. Safe and Secure Communication: We offer a secure platform for individuals and organizations to communicate, share information, and support one another without fear of censorship or surveillance.
-
 3. Community Engagement: Our platform encourages discussion, knowledge sharing, and collaboration among users who are deeply concerned about the ongoing conflict and its impact.
-
 4. Counter Disinformation: By providing reliable information and fact-checking resources, we aim to counter disinformation campaigns and promote responsible reporting.
 
 ## Features
